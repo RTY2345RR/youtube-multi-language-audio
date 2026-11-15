@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "speaker": "Marco",
+    "cue_start": 0.0,
+    "start": 0.0,
+    "seconds": 4.56,
+    "slot": 5.34,
+    "voice_speed": 1.0,
+    "tempo": 1.0,
+    "overflow": 0.0,
+    "drift": 0.0,
+    "text": "Hallo zusammen. Heute vertonen wir dieses Video in einem Schritt neu."
+  },
+  {
+    "id": 2,
+    "speaker": "Lucia",
+    "cue_start": 5.39,
+    "start": 5.39,
+    "seconds": 4.03,
+    "slot": 5.85,
+    "voice_speed": 1.0,
+    "tempo": 1.0,
+    "overflow": 0.0,
+    "drift": 0.0,
+    "text": "Und jeder behält seine eigene Stimme, mit passenden Untertiteln."
+  }
+]

@@ -1,0 +1,51 @@
+{
+  "tool": "youtube-multi-language-audio",
+  "video": "input/interview.mp4",
+  "video_seconds": 11.29,
+  "languages": [
+    {
+      "language": "en",
+      "language_name": "English",
+      "subtitles": "interview.en.srt",
+      "track": "output/en/interview.en.mp3",
+      "captions": "output/en/interview.en.srt",
+      "preview": "output/en/interview.en.preview.mp4",
+      "track_seconds": 11.33,
+      "length_matches_video": true,
+      "lines": 2,
+      "speakers": [
+        "Marco",
+        "Lucia"
+      ],
+      "revoiced_faster": 0,
+      "stretched": 0,
+      "max_tempo": 1.0,
+      "max_drift": 0.0,
+      "overflowing_lines": []
+    },
+    {
+      "language": "de",
+      "language_name": "German",
+      "subtitles": "interview.de.srt",
+      "track": "output/de/interview.de.mp3",
+      "captions": "output/de/interview.de.srt",
+      "preview": "output/de/interview.de.preview.mp4",
+      "track_seconds": 11.33,
+      "length_matches_video": true,
+      "lines": 2,
+      "speakers": [
+        "Marco",
+        "Lucia"
+      ],
+      "revoiced_faster": 0,
+      "stretched": 0,
+      "max_tempo": 1.0,
+      "max_drift": 0.0,
+      "overflowing_lines": []
+    }
+  ],
+  "multitrack_preview": "output/interview.multi-language.mkv",
+  "checklist": "output/UPLOAD-CHECKLIST.md",
+  "studio_url": "https://studio.youtube.com",
+  "new_voice_jobs": 0
+}

@@ -5,6 +5,6 @@ dist/
 build/
 *.egg-info/
 .pytest_cache/
-*-audio-tracks/
+/*-audio-tracks/
 .ytmla-state.json
 .clips/

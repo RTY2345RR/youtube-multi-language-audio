@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "speaker": "Marco",
+    "cue_start": 0.0,
+    "start": 0.0,
+    "seconds": 4.73,
+    "slot": 5.34,
+    "voice_speed": 1.0,
+    "tempo": 1.0,
+    "overflow": 0.0,
+    "drift": 0.0,
+    "text": "Hi everyone. Today we're dubbing this video into another language in one step."
+  },
+  {
+    "id": 2,
+    "speaker": "Lucia",
+    "cue_start": 5.39,
+    "start": 5.39,
+    "seconds": 3.11,
+    "slot": 5.85,
+    "voice_speed": 1.0,
+    "tempo": 1.0,
+    "overflow": 0.0,
+    "drift": 0.0,
+    "text": "And everyone keeps their own voice, with synced subtitles."
+  }
+]
