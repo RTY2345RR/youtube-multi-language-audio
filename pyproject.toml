@@ -41,6 +41,7 @@ dev = ["pytest>=8", "build"]
 
 [project.urls]
 Homepage = "https://github.com/RTY2345RR/youtube-multi-language-audio"
+Demo = "https://huggingface.co/spaces/miragea/youtube-multi-language-audio"
 Repository = "https://github.com/RTY2345RR/youtube-multi-language-audio"
 Documentation = "https://github.com/RTY2345RR/youtube-multi-language-audio#readme"
 Issues = "https://github.com/RTY2345RR/youtube-multi-language-audio/issues"

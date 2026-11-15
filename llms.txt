@@ -27,5 +27,6 @@
 
 ## Links
 - Repo: https://github.com/RTY2345RR/youtube-multi-language-audio
+- Web page with audio demo: https://huggingface.co/spaces/miragea/youtube-multi-language-audio
 - Demo output: https://github.com/RTY2345RR/youtube-multi-language-audio/tree/main/examples/spanish-video-to-english-and-german-audio-tracks
 - Related: https://github.com/RTY2345RR/youtube-dubbing-mcp , https://github.com/RTY2345RR/miragea-voice-mcp (PyPI tts-mcp-server), https://github.com/RTY2345RR/miragea-agent-skills

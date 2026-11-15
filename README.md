@@ -8,7 +8,7 @@
 
 ![youtube-multi-language-audio demo: a Spanish video dubbed into English and German audio tracks, two cloned voices, each line placed inside its subtitle cue](docs/images/youtube-multi-language-audio-tracks-demo.png)
 
-> **Listen to the real demo output** (no edits): [English track](examples/spanish-video-to-english-and-german-audio-tracks/output/en/interview.en.mp3) · [German track](examples/spanish-video-to-english-and-german-audio-tracks/output/de/interview.de.mp3) · [English preview MP4](examples/spanish-video-to-english-and-german-audio-tracks/output/en/interview.en.preview.mp4) · [synced English SRT](examples/spanish-video-to-english-and-german-audio-tracks/output/en/interview.en.srt) · [upload checklist](examples/spanish-video-to-english-and-german-audio-tracks/output/UPLOAD-CHECKLIST.md)
+> **Listen to the real demo output** (no edits): [English track](examples/spanish-video-to-english-and-german-audio-tracks/output/en/interview.en.mp3) · [German track](examples/spanish-video-to-english-and-german-audio-tracks/output/de/interview.de.mp3) · [English preview MP4](examples/spanish-video-to-english-and-german-audio-tracks/output/en/interview.en.preview.mp4) · [synced English SRT](examples/spanish-video-to-english-and-german-audio-tracks/output/en/interview.en.srt) · [upload checklist](examples/spanish-video-to-english-and-german-audio-tracks/output/UPLOAD-CHECKLIST.md) · [web page with audio players](https://huggingface.co/spaces/miragea/youtube-multi-language-audio)
 
 ## How it works
 
